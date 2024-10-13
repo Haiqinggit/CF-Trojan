@@ -1,0 +1,41 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+144.21.49.249,443,TRUE,FRA,Europe,Frankfurt,256 ms,6425 kB/s
+164.152.26.70,2086,TRUE,ORD,North America,Chicago,243 ms,5863 kB/s
+132.145.54.84,8443,TRUE,LHR,Europe,London,244 ms,3863 kB/s
+89.168.83.143,8443,TRUE,FRA,Europe,Frankfurt,293 ms,3721 kB/s
+141.147.85.167,8443,TRUE,LHR,Europe,London,256 ms,3595 kB/s
+158.179.207.182,8443,TRUE,ARN,Europe,Stockholm,258 ms,3404 kB/s
+143.47.243.144,2053,TRUE,LHR,Europe,London,253 ms,3282 kB/s
+158.101.169.13,2053,TRUE,FRA,Europe,Frankfurt,295 ms,2935 kB/s
+164.152.26.70,2052,TRUE,ORD,North America,Chicago,238 ms,2867 kB/s
+130.61.107.238,8443,TRUE,FRA,Europe,Frankfurt,301 ms,2632 kB/s
+158.180.49.11,2053,TRUE,FRA,Europe,Frankfurt,294 ms,2463 kB/s
+158.179.207.182,2053,TRUE,ARN,Europe,Stockholm,260 ms,2329 kB/s
+89.168.43.31,8443,TRUE,CDG,Europe,Paris,250 ms,2306 kB/s
+141.144.198.113,2053,TRUE,AMS,Europe,Amsterdam,249 ms,2278 kB/s
+141.148.242.113,8443,TRUE,AMS,Europe,Amsterdam,298 ms,2012 kB/s
+158.101.199.249,8443,TRUE,AMS,Europe,Amsterdam,296 ms,1947 kB/s
+40.233.70.7,8443,TRUE,YYZ,North America,Toronto,239 ms,1846 kB/s
+158.178.153.80,2096,TRUE,AMS,Europe,Amsterdam,314 ms,1783 kB/s
+141.144.198.113,8443,TRUE,AMS,Europe,Amsterdam,254 ms,1768 kB/s
+89.168.112.118,8443,TRUE,FRA,Europe,Frankfurt,318 ms,1555 kB/s
+158.178.206.197,2053,TRUE,CDG,Europe,Paris,250 ms,1417 kB/s
+89.168.68.57,8443,TRUE,FRA,Europe,Frankfurt,331 ms,1104 kB/s
+143.47.243.144,8443,TRUE,LHR,Europe,London,253 ms,870 kB/s
+141.147.61.116,8443,TRUE,FRA,Europe,Frankfurt,365 ms,851 kB/s
+132.145.54.84,2053,TRUE,LHR,Europe,London,260 ms,758 kB/s
+129.151.198.3,2053,TRUE,ARN,Europe,Stockholm,253 ms,697 kB/s
+141.147.61.116,2053,TRUE,FRA,Europe,Frankfurt,359 ms,665 kB/s
+89.168.68.57,2053,TRUE,FRA,Europe,Frankfurt,337 ms,572 kB/s
+146.235.59.153,2053,TRUE,GRU,South America,São Paulo,399 ms,543 kB/s
+132.226.163.224,8443,TRUE,GRU,South America,São Paulo,369 ms,470 kB/s
+158.101.169.13,8443,TRUE,FRA,Europe,Frankfurt,308 ms,360 kB/s
+158.180.49.11,8443,TRUE,FRA,Europe,Frankfurt,294 ms,347 kB/s
+132.226.163.224,2053,TRUE,GRU,South America,São Paulo,370 ms,278 kB/s
+89.168.43.31,2053,TRUE,CDG,Europe,Paris,248 ms,249 kB/s
+158.178.206.197,8443,TRUE,CDG,Europe,Paris,247 ms,176 kB/s
+168.138.141.235,2053,TRUE,GRU,South America,São Paulo,381 ms,147 kB/s
+146.235.59.153,8443,TRUE,GRU,South America,São Paulo,400 ms,108 kB/s
+152.70.249.67,443,TRUE,ICN,Asia Pacific,Seoul,113 ms,0 kB/s
+168.138.50.249,443,TRUE,KIX,Asia Pacific,Osaka,210 ms,0 kB/s
+168.138.212.196,2096,TRUE,NRT,Asia Pacific,Tokyo,127 ms,0 kB/s
